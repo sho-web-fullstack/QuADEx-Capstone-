@@ -1,6 +1,6 @@
 <h1> QuADex: Civil Engineering Qualifying and Diagnostic Examination for St. Anthony’s College – Antique </h1>
 
-<p> The website is designed to help both the administrator and the students, thus there are two unique platforms for each user. The admin will have unique username and password that will add security to the account that is assigned to the admin where the admin will have the authority to create exams and to manage the accounts of the students that are registered to a specific examination. The website will provide counter measures which provide strict security systems for student accounts to avoid the cheating. This will provide precise results that are based on the answers of the students.</p>
+<p> The website is designed to serve both administrators and students through two distinct platforms. Administrators will use unique usernames and passwords for enhanced security, allowing them to create exams and manage student accounts associated with specific examinations. The website incorporates strict security measures to prevent cheating, ensuring accurate results based on students' responses. Built using HTML, CSS, and JavaScript with support from Bootstrap and SweetAlert for the front end, and PHP for the back end, it utilizes SQLite for database management.</p>
 <br>
 <br>
 
